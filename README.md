@@ -12,3 +12,9 @@ int main(int argc, char *argv[])
 ```
 
 in C.
+
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y
+}
+```
