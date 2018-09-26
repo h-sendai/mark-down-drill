@@ -2,7 +2,7 @@
 
 ## Code
 
-```C
+```C {.line-numbers}
 #inlcude <stdio.h>
 
 int main(int argc, char *argv[])
